@@ -76,6 +76,6 @@ Soluções web complexas e sob medida para projetos de pesquisa que exigem funci
 
 ### [Texto em Voz](https://app-masters-elevenlabs-project.vercel.app/)
 
-![alt text](image-5.png)
+![](image-5.png)
 
 

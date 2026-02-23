@@ -1,51 +1,51 @@
 ---
 title: Academic Website Creation
-description: Elevate your presence and impact on the internet and in academia.
+description: Expand your online and academic presence with a professional website.
 slug: academic-website
-date: 
+date:
 image: cover1.png
 categories:
-    - Website
-    - Curriculum
-    - Publication
-    - Service
-weight: 1 
+  - Website
+  - Curriculum
+  - Publication
+  - Service
+weight: 1
 ---
 
-Custom academic website creation service for researchers, professors, and students. The service includes responsive design, search engine optimization (SEO), and integration with academic platforms. Ideal for highlighting publications, projects, and your curriculum in a professional and accessible way.
+Custom academic website creation service for researchers, professors, and students. The service includes responsive design, search engine optimization (SEO), and integration with academic platforms. It is ideal for showcasing publications, projects, and your CV in a professional and accessible way.
 
 [Contact us](mailto:geraldohomero+universitas@pm.me) for more information and personalized quotes.
 
-Initially, we offer three categories of services based on the ease of site maintenance, so you can choose the option that best fits your needs and management preferences:
+We currently offer three service categories based on maintenance complexity, so you can choose the option that best fits your needs and management preferences:
 
 ---
 
 ### 1. Easy Maintenance
-Ideal for those seeking practicality. You update the content independently through intuitive visual panels, without touching any code.
+Ideal for those looking for practicality. You can update content independently through intuitive visual dashboards, without touching code.
 
 - **Technologies:** WordPress, Wix, or Squarespace.
 - **Hosting:** Client's choice or based on our recommendation.
-- **Included:** Design creation, initial configuration, and management training.
-- **Technical Support (Optional):** Rates to be discussed.
+- **Included:** Design creation, initial setup, and management training.
+- **Technical Support (Optional):** Rates discussed separately.
 
 ---
 
 ### 2. Intermediate (Static)
-For those familiar with technology. Ultra-fast sites using Markdown for content management and versioning via GitHub.
+For those familiar with technology. Ultra-fast websites with Markdown-based content management and versioning via GitHub.
 
 - **Modern Technologies:** Hugo, Astro, or Jekyll.
 - **Hosting:** Highly flexible (GitHub Pages, Netlify, Vercel, etc.).
-- **Included:** Repository configuration and complete tutorial for updates via Markdown.
-- **Technical Support (Optional):** Rates to be discussed.
+- **Included:** Repository setup and a complete tutorial for updates via Markdown.
+- **Technical Support (Optional):** Rates discussed separately.
 
 ---
 
 ### 3. Advanced & Custom
-Complex and tailored web solutions for research projects that require specific features, dashboards, or databases.
+Complex, tailored web solutions for research projects that require specific features, dashboards, or databases.
 
 - **Cutting-edge Technologies:** JavaScript (React, Next.js) or C# (ASP.NET).
 - **Included:** Full-stack development and 6 months of guaranteed support after implementation.
-- **Additional Support (after 6 months):** Rates to be discussed.
+- **Additional Support (after 6 months):** Rates discussed separately.
 
 ---
 
@@ -53,12 +53,20 @@ Complex and tailored web solutions for research projects that require specific f
 
 ---
 
-## Examples of Created Academic Sites
+## Examples of Academic Websites Created
 
-### [II Student Seminar of the Graduate Program in Political Science at Unicamp (2025)](https://seminariodiscenteppgcp.wordpress.com/)
+### [II Graduate Student Seminar of the Unicamp Political Science Program (2025)](https://seminariodiscenteppgcp.wordpress.com/)
 
 ![](image.png)
 
-### [Professional Academic Site](https://geraldohomero.github.io/)
+### [Selection Process Analysis Website](https://processo-seletivo-2024-2025.vercel.app/)
+
+![](image-4.png)
+
+### [Professional Academic Website](https://geraldohomero.github.io/)
 
 ![](image-3.png)
+
+### [Text-to-Speech](https://app-masters-elevenlabs-project.vercel.app/)
+
+![](image-5.png)
