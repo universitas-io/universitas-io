@@ -10,9 +10,7 @@ categories:
     - Publicação
     - Projeto
 tags:
-    - Serviço
-    - Personalizado
-    - Design Responsivo
+
 weight: 1 
 ---
 
@@ -31,7 +29,7 @@ Ideal para quem busca praticidade. Você atualiza o conteúdo de forma independe
 - **Tecnologias:** WordPress, Wix ou Squarespace.
 - **Hospedagem:** À escolha do cliente ou mediante nossa recomendação.
 - **Inclusos:** Criação do design, configuração inicial e treinamento de gestão.
-- **Suporte Técnico (Opcional):** Preço a combinar.
+- **Suporte Técnico (Opcional/Ocasional):** Preço a combinar.
 
 
 ---
@@ -42,7 +40,7 @@ Para quem tem familiaridade com tecnologia. Sites ultra-rápidos usando Markdown
 - **Tecnologias Modernas:** Hugo, Astro ou Jekyll.
 - **Hospedagem:** Altamente flexível (GitHub Pages, Netlify, Vercel, etc.).
 - **Inclusos:** Configuração do repositório e tutorial completo para atualizações via Markdown.
-- **Suporte Técnico (Opcional):** Preço a combinar.
+- **Suporte Técnico (Opcional/Ocasional):** Preço a combinar.
 
 
 ---
@@ -52,7 +50,7 @@ Soluções web complexas e sob medida para projetos de pesquisa que exigem funci
 
 - **Tecnologias de Ponta:** JavaScript (React, Next.js) ou C# (ASP.NET).
 - **Inclusos:** Desenvolvimento Full-stack e 6 meses de suporte garantido após implementação.
-- **Suporte Adicional (6 meses grátis):** restante preço a combinar.
+- **Suporte Adicional (após 6 meses):** Preço a combinar.
 
 
 ---
@@ -64,14 +62,11 @@ Soluções web complexas e sob medida para projetos de pesquisa que exigem funci
 
 ## Exemplos de Sites Acadêmicos Criados
 
-### II Seminário Discente do Programa de Pós-graduação em Ciência Política da Unicamp (2025)
+### [II Seminário Discente do Programa de Pós-graduação em Ciência Política da Unicamp (2025)](https://seminariodiscenteppgcp.wordpress.com/)
 
 ![](image.png)
 
-### Site acadêmico profissional
+### [Site acadêmico profissional](https://geraldohomero.github.io/)
 
 ![](image-3.png)
 
-### Site acadêmico profissional
-
-![](image-1.png)

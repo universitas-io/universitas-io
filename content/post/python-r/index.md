@@ -9,9 +9,7 @@ categories:
     - R
     - Banco de Dados
 tags:
-    - Digital Humanities
-    - Web Scraping
-    - Data Analysis
+
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

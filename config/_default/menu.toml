@@ -12,11 +12,3 @@
     newtab = true
     [social.params]
         icon = "linkedin"
-[[social]]
-    identifier = "github"
-    name       = "github"
-    url        = "https://github.com/geraldohomero"
-    newtab = true
-    [social.params]
-        icon = "brand-github"
-        
