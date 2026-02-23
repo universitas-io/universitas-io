@@ -1,6 +1,6 @@
 ---
 title: Criação de Sites Acadêmicos
-description: Eleve sua presença e impacto na academia.
+description: Eleve sua presença e impacto na internet e na academia.
 slug: site-academico
 date: 
 image: cover1.png
@@ -8,7 +8,7 @@ categories:
     - Website
     - Currículo
     - Publicação
-    - Projeto
+    - Serviço
 tags:
 
 weight: 1 
@@ -29,7 +29,7 @@ Ideal para quem busca praticidade. Você atualiza o conteúdo de forma independe
 - **Tecnologias:** WordPress, Wix ou Squarespace.
 - **Hospedagem:** À escolha do cliente ou mediante nossa recomendação.
 - **Inclusos:** Criação do design, configuração inicial e treinamento de gestão.
-- **Suporte Técnico (Opcional/Ocasional):** Preço a combinar.
+- **Suporte Técnico (Opcional/Ocasional):** Valor a combinar.
 
 
 ---
@@ -40,7 +40,7 @@ Para quem tem familiaridade com tecnologia. Sites ultra-rápidos usando Markdown
 - **Tecnologias Modernas:** Hugo, Astro ou Jekyll.
 - **Hospedagem:** Altamente flexível (GitHub Pages, Netlify, Vercel, etc.).
 - **Inclusos:** Configuração do repositório e tutorial completo para atualizações via Markdown.
-- **Suporte Técnico (Opcional/Ocasional):** Preço a combinar.
+- **Suporte Técnico (Opcional/Ocasional):** Valor a combinar.
 
 
 ---
@@ -50,7 +50,7 @@ Soluções web complexas e sob medida para projetos de pesquisa que exigem funci
 
 - **Tecnologias de Ponta:** JavaScript (React, Next.js) ou C# (ASP.NET).
 - **Inclusos:** Desenvolvimento Full-stack e 6 meses de suporte garantido após implementação.
-- **Suporte Adicional (após 6 meses):** Preço a combinar.
+- **Suporte Adicional (após 6 meses):** Valor a combinar.
 
 
 ---
