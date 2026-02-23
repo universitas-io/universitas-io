@@ -12,3 +12,10 @@
     newtab = true
     [social.params]
         icon = "linkedin"
+[[social]]
+    identifier = "Email"
+    name       = "Email"
+    url        = "mailto:geraldohomero@pm.me"
+    newtab = true
+    [social.params]
+        icon = "email"

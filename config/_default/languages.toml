@@ -1,0 +1,17 @@
+[pt-br]
+    languageCode      = "pt-br"
+    languageName      = "Português Brasil"
+    languagedirection = "ltr"
+    title             = "Universitas"
+    weight            = 1
+    [pt-br.params.sidebar]
+        subtitle = "Serviços acadêmicos e de pesquisa quantitativa"
+
+[en]
+    languageCode      = "en"
+    languageName      = "English"
+    languagedirection = "ltr"
+    title             = "Universitas"
+    weight            = 2
+    [en.params.sidebar]
+        subtitle = "Academic services and quantitative research"

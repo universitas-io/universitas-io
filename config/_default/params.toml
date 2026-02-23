@@ -11,8 +11,6 @@ SortBy              = "default"
 
 [footer]
     since      = 2021
-    customText = "Serviços Acadêmicos e de Pesquisa Quantitativa para as Humanidades"
-
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"

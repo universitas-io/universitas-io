@@ -4,7 +4,6 @@ languageCode = "pt-br"
 title        = "Universitas"
 
 # Theme i18n support
-# See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
 defaultContentLanguage = "pt-br"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
