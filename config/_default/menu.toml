@@ -15,7 +15,7 @@
 [[social]]
     identifier = "github"
     name       = "github"
-    url        = "https://github/geraldohomero"
+    url        = "https://github.com/geraldohomero"
     newtab = true
     [social.params]
         icon = "brand-github"
