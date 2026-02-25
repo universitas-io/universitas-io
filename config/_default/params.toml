@@ -18,7 +18,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = ""
     subtitle = "Serviços acadêmicos e de pesquisa quantitativa para as Humanidades"
-    avatar   = "img/logo5.png"
+    avatar   = "img/logo.png"
 
 [article]
     headingAnchor = false
