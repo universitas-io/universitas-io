@@ -9,9 +9,8 @@ menu:
 ---
 
 
-Doutorando em Ciência Política pela Unicamp, Mestre, Bacharel e Licenciado em História pela UFJF. Também possui graduação em Análise e Desenvolvimento de Software pela PUC Minas.
+Equipe multidisciplinar com experiência em ciência política, história, ciência ambiental, análise de dados e desenvolvimento web. Nosso objetivo é fornecer serviços de alta qualidade para pesquisadores, estudantes e profissionais que buscam aprimorar seus trabalhos acadêmicos e projetos de pesquisa.
 
-Pesquiso principalmente movimentos sociais digitais, humanidades digitais, estudos críticos da internet, interfaces entre tecnologia e política, plataformas digitais e suas implicações na esfera pública.
 
 [Entre em contato](mailto:geraldohomero+universitas@pm.me) para discutir colaborações ou contratação de serviços.
 

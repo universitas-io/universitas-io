@@ -6,12 +6,12 @@
     [social.params]
         icon = "whatsapp"
 [[social]]
-    identifier = "LinkedIn"
-    name       = "LinkedIn"
-    url        = "https://linkedin.com/in/geraldohomero"
+    identifier = "Instagram"
+    name       = "Instagram"
+    url        = "https://instagram.com/universitas.solutions"
     newtab = true
     [social.params]
-        icon = "linkedin"
+        icon = "brand-instagram"
 [[social]]
     identifier = "Email"
     name       = "Email"
